@@ -6,6 +6,7 @@ do
    do
       if [ $var1 -eq 2 -a $var2 -eq 0 ]
       then
+	      echo "broke"
          break 2
       else
          echo "$var1 $var2"

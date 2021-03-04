@@ -1,0 +1,15 @@
+hello world
+hello world
+hello world
+
+Pinging google.com [142.250.186.174] with 32 bytes of data:
+Reply from 142.250.186.174: bytes=32 time=267ms TTL=111
+Reply from 142.250.186.174: bytes=32 time=186ms TTL=111
+Reply from 142.250.186.174: bytes=32 time=202ms TTL=111
+Reply from 142.250.186.174: bytes=32 time=215ms TTL=111
+
+Ping statistics for 142.250.186.174:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 186ms, Maximum = 267ms, Average = 217ms
+hello world
